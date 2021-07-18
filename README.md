@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azazkhqn
+- 👋 Hi, I’m @azazkhan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning SVG
+- 🌱 I’m React JS and FireBase developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 03444923656
 
